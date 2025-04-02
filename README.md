@@ -53,5 +53,13 @@
 10. `git staus` 위 9번 업로드됐는지 확인
 11. `git commit -m 메세지` 수정 파일에 대한 기록 메세지 작성
 12. `git push origin main` 깃허브 저장소에 업로드
-
+# html, meta에 작성하는 속성의 뜻
+## html
+html: 웹페이지의 전체구조를 정의하는 요소
+~<html lang="ko"> 문서의 언어설정
+meta: 웹페이지의 정보(메타데이터터)를 제공하는 요소
+## meta의 속성과 값
+<meta charset="UTF-8> 대부분의 언어를 지원. 표현할 수 있음 문자 인코딩 설정
+<meta name="descripition" content="">
+<meta name= "key words content="" 해당키워드를 검색시 나오게하는 것이다
 
